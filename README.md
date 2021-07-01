@@ -37,10 +37,6 @@
         <th>개발도구</th>
         <th colspan="3">Tera Term</th>
     </tr>
-    <tr>
-        <th>사용기술</th>
-        <th colspan="3"></th>
-    </tr>
 </table>
 
 ### 📼 Appearance
