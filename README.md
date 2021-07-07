@@ -44,7 +44,12 @@ Text의 모든 단어들을 Parsing하여 개수를 세고 선택한 정렬방�
 
 
  ### 📃 정렬 기능
- ![정렬 기능](https://user-images.githubusercontent.com/55887059/92356035-6b51ec80-f120-11ea-930f-4e4cca60e9eb.gif)
+ ![정렬 기능](https://im3.ezgif.com/tmp/ezgif-3-c90b29cd4183.gif)
+ 
+ ./{실행파일명} {텍스트} {정렬방식}
+ ex) ./WordCnt data.txt A
+ 
+ 정렬방식 : A(Ascending), D(Descending), M(Max), I(Min)
 
 
 ### 📑 Role & Member
